@@ -1,0 +1,6 @@
+module Pods_GenCoffee_GenCoffeeTests {
+  umbrella header "Pods-GenCoffee-GenCoffeeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
